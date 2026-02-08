@@ -34,7 +34,6 @@ async function addProduct() {
     quantity: Number(document.getElementById("quantity").value)
   };
 
-  // 🛑 frontend validation (important)
   if (!product.name || !product.description || product.price <= 0 || product.quantity <= 0) {
     alert("Please fill all fields correctly");
     return;
