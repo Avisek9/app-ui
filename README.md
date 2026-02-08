@@ -5,15 +5,10 @@ Built using **HTML, CSS, and Vanilla JavaScript**, this UI consumes a **live Spr
  Live Demo
 
 - **Frontend (Netlify):**  
-  👉 https://YOUR-NETLIFY-URL.netlify.app
+   https://shoppin-ap.netlify.app
 
 - **Backend API (Render):**  
-  👉 https://product-api-w0rr.onrender.com
-
-- **Swagger UI (Backend Docs):**  
-  👉 https://product-api-w0rr.onrender.com/swagger-ui/index.html
-
----
+  https://product-api-w0rr.onrender.com
 
 ## 📌 Features
 
